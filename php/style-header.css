@@ -1,0 +1,35 @@
+.btn-group{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+.tt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    flex-direction: column;
+}
+.h2{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+div{
+    display:flex;
+}
+p{
+    display: flex;
+}
+.toto{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-content:center;
+}
+div{
+    display:flex;
+}

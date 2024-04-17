@@ -1,0 +1,6 @@
+footer{
+    display: flex;/* mise en page flexible*/
+    justify-content: center;/*mettre au centre horizontale*/
+    width: 100%;/*largeur*/
+    background-color: #626D71;/*couleur de fond*/
+}
